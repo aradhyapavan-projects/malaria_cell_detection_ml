@@ -53,8 +53,8 @@ Malaria is a life-threatening disease caused by parasites transmitted through th
 ### 1. Clone the Repository
 
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/aradhyapavan-projects/malaria_cell_detection_ml
+cd malaria_cell_detection_ml
 ```
 
 ### 2. Install Requirements
