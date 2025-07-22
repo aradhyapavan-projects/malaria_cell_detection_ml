@@ -141,13 +141,15 @@ Snapshot/
 
 Below are some visualizations and results from the project, located in the `Snapshot` folder:
 
-- **1.image_samples.png:** Example cell images from the dataset.
-- **2.pixel_features.png:** Visualization of raw pixel features.
-- **3.hog_feature_image.png:** HOG feature visualization for a sample image.
-- **4.hog_features.png:** Distribution of HOG features.
-- **5.streamlit_app.png:** Screenshot of the Streamlit app interface.
-- **6.Malaria_cell_infected_Result.png:** Example of an infected cell prediction.
-- **7.healthy_cell_prediction.png:** Example of a healthy cell prediction.
+| Image | Description |
+|-------|-------------|
+| ![Sample Images](Snapshot/1.image_samples.png) | Example cell images from the dataset |
+| ![Pixel Features](Snapshot/2.pixel_features.png) | Visualization of raw pixel features |
+| ![HOG Feature Image](Snapshot/3.hog_feature_image.png) | HOG feature visualization for a sample image |
+| ![HOG Features](Snapshot/4.hog_features.png) | Distribution of HOG features |
+| ![Streamlit App](Snapshot/5.streamlit_app.png) | Screenshot of the Streamlit app interface |
+| ![Infected Result](Snapshot/6.Malaria_cell_infected_Result.png) | Example of an infected cell prediction |
+| ![Healthy Prediction](Snapshot/7.healthy_cell_prediction.png) | Example of a healthy cell prediction |
 
 You can view these images in the `Snapshot` directory for a better understanding of the workflow and results.
 
