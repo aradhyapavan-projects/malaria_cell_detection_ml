@@ -1,0 +1,6 @@
+streamlit
+joblib
+numpy
+scikit-image
+matplotlib 
+scikit-learn==1.5.1 
