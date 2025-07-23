@@ -5,6 +5,22 @@
 ## Problem Statement
 Malaria is a life-threatening disease caused by parasites transmitted through the bites of infected mosquitoes. Manual diagnosis from blood smear images is time-consuming and requires expert knowledge. This project aims to automate malaria cell detection using machine learning techniques applied to cell images, making diagnosis faster and more accessible.
 
+## Dataset
+
+This project uses the publicly available malaria cell image dataset from Kaggle: [Cell Images for Detecting Malaria](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria/data), originally sourced from the official NIH website: [NIH Malaria Datasets](https://ceb.nlm.nih.gov/repositories/malaria-datasets/).
+
+**Content:**
+- The dataset contains two folders:
+  - `Infected`
+  - `Uninfected`
+- A total of 27,558 cell images are included.
+
+**Acknowledgements:**
+- This dataset is provided by the National Institutes of Health (NIH).
+
+**Inspiration:**
+- Save lives by detecting and deploying models to classify cell images as containing malaria or not!
+
 ## Approach
 
 1. **Data Exploration**
@@ -152,6 +168,15 @@ Below are some visualizations and results from the project, located in the `Snap
 | ![Healthy Prediction](Snapshot/7.healthy_cell_prediction.png) | Example of a healthy cell prediction |
 
 You can view these images in the `Snapshot` directory for a better understanding of the workflow and results.
+
+
+
+## Live Demo
+
+Try the app live on Hugging Face Spaces: [Malaria Cell Detection Demo](https://huggingface.co/spaces/aradhyapavan/malaria-cell-detection-using-hog/)
+
+All files for this project are available on Hugging Face Spaces: [https://huggingface.co/spaces/aradhyapavan/malaria-cell-detection-using-hog/tree/main](https://huggingface.co/spaces/aradhyapavan/malaria-cell-detection-using-hog/tree/main)
+
 
 ---
 
